@@ -1,8 +1,8 @@
-# Wikipedia App 2
+# Paint App
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
-This is a simple Wikipedia desktop app written in Python With Tkinter module.<br>
+This is a simple desktop app written in Python With Tkinter module.<br>
 Click <a href="https://docs.python.org/3/library/tk.html"> here</a> to read more about **tkinter** module.<br>
 
 ## #100daysofcode
